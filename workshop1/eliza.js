@@ -32,20 +32,20 @@ var rules = {
     "How do you do. Please state your problem."
   ],
   "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
-    "Why do you mention computers?",
-    "What about computers worries you?",
-    "What do you think about computers?",
-    "What do you think machines have to do with your problem?",
+    "I'm sorry Dave, I can't let you do that?",
+    "WI'm sorry Dave, I can't let you do that?",
+    "I'm sorry Dave, I can't let you do that",
+    "I'm sorry Dave, I can't let you do that?",
+    "I'm sorry Dave, I can't let you do that?",
+    "I'm sorry Dave, I can't let you do that?",
+    "I'm sorry Dave, I can't let you do that?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "I'm sorry Dave, I can't let you do that",
   ],
-  "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
+  "~*x I'm sorry Dave, I can't let you do that ~*y": [
+    "I'm sorry Dave, I can't let you do that",
+    "I'm sorry Dave, I can't let you do that",
     "What feelings do you have when you apologize",
   ],
   "~*x I remember ~*y": [
@@ -57,20 +57,20 @@ var rules = {
     "What is the connection between me and ~y?",
   ],
   "~*x do you remember ~*y": [
-    "Did you think I would forget ~y?",
-    "Why do you think I should recall ~y now?",
-    "What about ~y?",
-    "You mentioned ~y",
+    "I'm sorry Dave, I can't let you do that ~y?",
+    "I'm sorry Dave, I can't let you do that ~y now?",
+    "I'm sorry Dave, I can't let you do thatt ~y?",
+    "I'm sorry Dave, I can't let you do that ~y",
   ],
   "~*x I want ~*y": [
-    "What would it mean if you got ~y?",
-    "Why do you want ~y?",
-    "Suppose you got ~y soon.",
+    "I'm sorry Dave, I can't let you do that ~y?",
+    "I'm sorry Dave, I can't let you do that ~y?",
+    "I'm sorry Dave, I can't let you do that ~y soon.",
   ],
     "~*x I need ~*y": [
-    "What would it mean if you got ~y?",
-    "Why do you need ~y?",
-    "Suppose you got ~y soon.",
+    "I'm sorry Dave, I can't let you do that. ~y?",
+    "I'm sorry Dave, I can't let you do that ~y?",
+    "I'm sorry Dave, I can't let you do that ~y soon.",
   ],
   "~*x if ~*y": [
     "Do you really think it's likely that ~y?",
